@@ -8,6 +8,6 @@
 
 - - - -
 
-I study Information Systems at [Universidade Federal de Minas Gerais](https://ufmg.br/). I'm also UI / UX Designer at [IBM](https://www.ibm.com/).
+I study Information Systems at [Universidade Federal de Minas Gerais](https://ufmg.br/).
 
 I love pets, books, drawing, customization and DIY.
